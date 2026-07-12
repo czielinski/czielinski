@@ -2,11 +2,11 @@
 
 I make complex IT landscapes steerable by reducing complexity in architectures, responsibilities, and operations.
 
-Head of IT Infrastructure at Kassenärztliche Vereinigung Nordrhein (KV Nordrhein). Previously technical architecture for the ERGO Group within Group Technology. PhD in computational physics (NTU Singapore).
+Currently Head of IT Infrastructure. Previously leading an international team of technical architects. PhD in computational physics (NTU Singapore).
 
 ## What you'll find here
 
-- Working notes on technology leadership: architecture governance, operating models, and AI in IT operations
+- Working notes on technology leadership
 - Quantitative side projects, including [portfolioopt](https://github.com/czielinski/portfolioopt), a portfolio optimization library
 - Material from earlier talks and research
 
