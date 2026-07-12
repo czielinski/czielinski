@@ -1,16 +1,21 @@
-## Hi there 👋
+# Christian Zielinski
 
-<!--
-**czielinski/czielinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make complex IT landscapes steerable by reducing complexity in architectures, responsibilities, and operations.
 
-Here are some ideas to get you started:
+Head of IT Infrastructure at Kassenärztliche Vereinigung Nordrhein (KV Nordrhein). Previously technical architecture for the ERGO Group within Group Technology. PhD in computational physics (NTU Singapore).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you'll find here
+
+- Working notes on technology leadership: architecture governance, operating models, and AI in IT operations
+- Quantitative side projects, including [portfolioopt](https://github.com/czielinski/portfolioopt), a portfolio optimization library
+- Material from earlier talks and research
+
+These are personal notes and projects. Views are my own. Nothing here contains employer material.
+
+## Focus
+
+Enterprise and technical architecture, IT governance, infrastructure strategy and secure operations, operating models, modernization and build-to-run, AI in IT operations.
+
+## Elsewhere
+
+[czielinski.de](https://czielinski.de) | [LinkedIn](https://www.linkedin.com/in/czielinski/) | [arXiv](https://arxiv.org/a/zielinski_c_1.html) | [ORCID](https://orcid.org/0000-0002-9219-3238)
