@@ -1,6 +1,6 @@
 # Christian Zielinski
 
-I lead IT Infrastructure at KV Nordrhein. My work connects investment decisions, architecture and the responsibilities needed to operate technology reliably.
+I lead IT Infrastructure at KV Nordrhein. My work connects investment decisions, architecture and the responsibilities needed to operate technology reliably. A major focus is the modern workplace: Microsoft 365, managed endpoints and secure collaboration for employees. I also drive sovereign cloud foundations and operating models.
 
 Previously, I led technical architecture at ERGO and worked on architecture and cloud platforms at Uniper and d-fine. I hold a PhD in physics from Nanyang Technological University, Singapore.
 
